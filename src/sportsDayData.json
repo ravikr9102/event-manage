@@ -1,0 +1,69 @@
+{
+  "sportsDayDate": "2024-09-15",
+  "events": [
+    {
+      "eventId": 1,
+      "name": "100m Sprint",
+      "category": "Athletics",
+      "startTime": "09:00 AM",
+      "endTime": "09:30 AM",
+      "image": "https://plus.unsplash.com/premium_photo-1721755972920-9b9f4ee7d044?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "eventId": 2,
+      "name": "Long Jump",
+      "category": "Athletics",
+      "startTime": "09:30 AM",
+      "endTime": "10:15 AM",
+      "image": "https://plus.unsplash.com/premium_photo-1664302586716-2853c33b79a0?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "eventId": 3,
+      "name": "3-Legged Race",
+      "category": "Fun and Relay",
+      "startTime": "10:30 AM",
+      "endTime": "11:00 AM",
+      "image": "https://images.unsplash.com/photo-1516487200032-8532cb603261?q=80&w=2371&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "eventId": 4,
+      "name": "Tug of War",
+      "category": "Team Building",
+      "startTime": "11:00 AM",
+      "endTime": "11:45 AM",
+      "image": "https://images.unsplash.com/photo-1521830101529-057b1dfd9784?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "eventId": 5,
+      "name": "Relay Race",
+      "category": "Athletics",
+      "startTime": "12:00 PM",
+      "endTime": "12:45 PM",
+      "image": "https://images.unsplash.com/photo-1461897104016-0b3b00cc81ee?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "eventId": 6,
+      "name": "Swimming Relay",
+      "category": "Swimming",
+      "startTime": "01:00 PM",
+      "endTime": "01:45 PM",
+      "image": "https://images.unsplash.com/photo-1515651513386-89be725f1571?q=80&w=2639&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "eventId": 7,
+      "name": "Mountain Trekking",
+      "category": "Trekking",
+      "startTime": "02:00 PM",
+      "endTime": "04:00 PM",
+      "image": "https://plus.unsplash.com/premium_photo-1690574169354-d6cc4299cf84?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "eventId": 8,
+      "name": "Closing Ceremony",
+      "category": "Ceremony",
+      "startTime": "03:00 PM",
+      "endTime": "04:00 PM",
+      "image": "https://images.unsplash.com/photo-1529072453989-e2ea167fd2c6?q=80&w=2371&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
