@@ -20,7 +20,9 @@ const Events = () => {
     );
 
     if (isConflict) {
-      toast.error("This event conflicts with one of your selected events.");
+      toast.error(
+        "This event overlaps with one you've already selected. Please choose another.."
+      );
       return;
     }
     setSelectedEvents([...selectedEvents, event]);
@@ -55,7 +57,6 @@ const Events = () => {
   }, []);
 
   useEffect(() => {
-    console.log("Saving Selected Events:", selectedEvents);
     if (selectedEvents.length > 0) {
       localStorage.setItem("selectedEvents", JSON.stringify(selectedEvents));
     }
